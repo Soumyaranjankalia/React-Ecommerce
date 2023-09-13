@@ -1,6 +1,7 @@
 import React from 'react'
 import Nabvar from '../features/navbar/Nabvar'
-import ProductList from '../features/product-list/ProductList'
+import ProductList from '../features/product-list/components/ProductList'
+
 
 function Home() {
   return (
